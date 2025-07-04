@@ -27,22 +27,22 @@ export const skills = [
 export const projects = [
   {
     id: 1,
+    title: "TrueConnect Real-Time ChatApp",
+    description: "TrueConnect is a real-time chat application built with the MERN stack. It features secure JWT authentication, live messaging with Socket.io, online user presence tracking, and global state management using Zustand.",
+    image: "./images/true.png",
+    technologies: ["React", "MongoDB", "TailwindCSS", "Node.js"],
+    liveUrl: "https://example.com",
+    githubUrl: "https://github.com/alexjohnson/taskapp",
+    featured: true,
+  },
+   {
+    id: 2,
     title: "Blog Platform ByteCraft",
     description: "Built a secure SaaS blog platform with React and Appwrite, featuring RBAC, rich text editing, and image uploads via TinyMCE and Cloudinary.",
     image: "./images/blog.jpg",
     technologies: ["React", "TailwindCSS", "Appwrite"],
     liveUrl: "https://byte-craft-teal.vercel.app/",
     githubUrl: "https://github.com/vansh720/ByteCraft",
-    featured: true,
-  },
-  {
-    id: 2,
-    title: "Task Management App",
-    description: "A collaborative task management application with real-time updates, team collaboration features, and advanced analytics.",
-    image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800",
-    technologies: ["React", "Firebase", "Material-UI", "WebSocket"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com/alexjohnson/taskapp",
     featured: true,
   },
   {
