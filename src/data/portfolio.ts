@@ -51,7 +51,7 @@ export const projects = [
     description: "This portfolio website showcases my journey as a B.Tech student in Artificial Intelligence and Data Science with a strong interest in DSA, frontend development, and intelligent systems. Built using React.js and styled with Tailwind CSS, the site reflects my design sense, technical skills, and attention to user experience.",
     image: "./images/portfoliopic.png",
     technologies: ["ReactJs", "TailwindCSS","javaScript"],
-    liveUrl: "https://example.com",
+    liveUrl: "https://portfolio-tawny-eight-43.vercel.app/",
     githubUrl: "https://github.com/vansh720/Portfolio",
     featured: false,
   },
