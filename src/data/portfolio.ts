@@ -52,7 +52,7 @@ export const projects = [
     image: "./images/portfoliopic.png",
     technologies: ["ReactJs", "TailwindCSS","javaScript"],
     liveUrl: "https://example.com",
-    githubUrl: "https://github.com/alexjohnson/weather-dashboard",
+    githubUrl: "https://github.com/vansh720/Portfolio",
     featured: false,
   },
   {
