@@ -23,7 +23,7 @@ const Testimonials: React.FC = () => {
             What People Say
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Testimonials from colleagues and clients I've had the pleasure to work with.
+            Testimonials from my friends and fellow developers about my work and contributions.
           </p>
         </div>
 
