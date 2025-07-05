@@ -31,8 +31,8 @@ export const projects = [
     description: "TrueConnect is a real-time chat application built with the MERN stack. It features secure JWT authentication, live messaging with Socket.io, online user presence tracking, and global state management using Zustand.",
     image: "https://res.cloudinary.com/din9vw0sp/image/upload/v1751702726/True_z8dxbw.png",
     technologies: ["React", "MongoDB", "TailwindCSS", "Node.js"],
-    liveUrl: "https://portfolio-tawny-eight-43.vercel.app/",
-    githubUrl: "https://github.com/vansh720/Portfolio",
+   liveUrl: "https://trueconnect-5.onrender.com/",
+    githubUrl: "https://github.com/vansh720/TrueConnect",
     featured: true,
   },
    {
