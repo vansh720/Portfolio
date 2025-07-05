@@ -39,7 +39,7 @@ export const projects = [
     id: 2,
     title: "Blog Platform ByteCraft",
     description: "Built a secure SaaS blog platform with React and Appwrite, featuring RBAC, rich text editing, and image uploads via TinyMCE and Cloudinary.",
-    image: "./images/blog.jpg",
+    image: "https://res.cloudinary.com/din9vw0sp/image/upload/v1751702761/blog_jnn26x.jpg",
     technologies: ["React", "TailwindCSS", "Appwrite"],
     liveUrl: "https://byte-craft-teal.vercel.app/",
     githubUrl: "https://github.com/vansh720/ByteCraft",
