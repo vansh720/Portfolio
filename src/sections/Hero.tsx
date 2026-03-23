@@ -107,7 +107,7 @@ const Hero: React.FC = () => {
             variant="outline" 
             size="lg" 
             icon={Download}
-            onClick={() => window.open('https://drive.google.com/file/d/1KwbS2DzHa96N6AxlNA5vtIe-fdg5s9Cx/view?usp=sharing', '_blank')}
+            onClick={() => window.open('https://drive.google.com/file/d/1ExwnKlx5pMIrXvpB-Ojt7JmwfkUuXj3t/view?usp=sharing', '_blank')}
           >
             Download Resume
           </Button>
