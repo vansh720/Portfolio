@@ -37,12 +37,12 @@ export const projects = [
   },
    {
     id: 2,
-    title: "Blog Platform ByteCraft",
-    description: "Built a secure SaaS blog platform with React and Appwrite, featuring RBAC, rich text editing, and image uploads via TinyMCE and Cloudinary.",
-    image: "https://res.cloudinary.com/din9vw0sp/image/upload/v1751702761/blog_jnn26x.jpg",
-    technologies: ["React", "TailwindCSS", "Appwrite"],
-    liveUrl: "https://byte-craft-teal.vercel.app/",
-    githubUrl: "https://github.com/vansh720/ByteCraft",
+    title: "ShowSnatch A Movie Booking Platform",
+    description: "Engineered a full-stack movie booking app using MongoDB, Express, React, and Node.js with Clerk authentication, Inngest background jobs, and Stripe integration.",
+    image: "https://res.cloudinary.com/dmsiqlqmv/image/upload/v1774266347/Screenshot_191_bcuzkz.png",
+    technologies: ["React", "TailwindCSS", "Node.js"],
+    liveUrl: "https://showsnatch.vercel.app/",
+    githubUrl: "https://github.com/vansh720/ShowSnatch",
     featured: true,
   },
   {
